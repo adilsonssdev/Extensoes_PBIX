@@ -1,8 +1,8 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://img.shields.io/badge/DAX_Studio-52b5f7?style=for-the-badge&logo=dax&logoColor=white" alt="DAX Studio Icon" style="margin-right: 8px;">
-  <strong>Documentação com DAX Studio</strong>
-</div>
+<!--<div style="display: flex; align-items: center; width: 20px;">
+  <img src="https://img.shields.io/badge/DAX_Studio-52b5f7?style=for-the-badge&logo=dax&logoColor=white" alt="DAX Studio Icon" style="margin-right: 30px;">
+</div>-->
 
+ # Documentação com DAX Studio
 
 Este script extrai o conteúdo do modelo do PBIX incluindo:
 
@@ -23,8 +23,6 @@ Instruções
 3. Na barra de opções superior do DAX Studio, na divisão `Output` clique em `Results` e escolha a opção `Static`
 4. Clique em `Run` na barra de navegação ou pressione `F5` no teclado
 5. Escolha o local para salvar o arquivo gerado.
-
----
 
 # AnalyzeInExcel
 
@@ -61,8 +59,6 @@ Um suplemento do Excel, desenvolvido em VSTO, que abre o Power BI Desktop e cone
 O usuário pode iniciar a conexão diretamente no Excel, abrindo um arquivo específico do Power BI Desktop se ainda não estiver aberto.
 Se o arquivo do Excel foi salvo usando a ferramenta “Abrir Relatório no Excel”, o suplemento pode recuperar automaticamente o arquivo correto do Power BI Desktop para abrir.
 
----
-
 # Bravo for Power BI
 
 Bravo para Power BI é uma ferramenta gratuita de código aberto que ajuda você a criar um modelo do Power BI com uma interface de usuário simples. 
@@ -81,7 +77,6 @@ Mas quando a tarefa for simples, ou se você ainda estiver dando os primeiros pa
 
 Clique aqui e baixe uma versão mais recente:  [Bravo](https://www.sqlbi.com/tools/bravo-for-power-bi/) 
 
----
 # Tabular Editor
 
 Clique aqui e baixe:  [Tabular Editor](https://www.sqlbi.com/tools/tabular-editor/)

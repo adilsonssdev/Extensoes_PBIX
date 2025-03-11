@@ -1,4 +1,9 @@
-# Documentação com DAX Studio
+<div style="display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/DAX_Studio-52b5f7?style=for-the-badge&logo=dax&logoColor=white" alt="DAX Studio Icon" style="margin-right: 8px;">
+  <strong>Documentação com DAX Studio</strong>
+</div>
+
+
 Este script extrai o conteúdo do modelo do PBIX incluindo:
 
 - Tabelas

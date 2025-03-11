@@ -23,7 +23,7 @@ Instruções
 
 # AnalyzeInExcel
 
-Analyze in Excel para Power BI Desktop clique em [AnalyzeInExcel](https://www.sqlbi.com/tools/analyze-in-excel-for-power-bi-desktop/) 
+Analyze in Excel para Power BI Desktop, clique aqui e baixe uma versão mais recente:  [AnalyzeInExcel](https://www.sqlbi.com/tools/analyze-in-excel-for-power-bi-desktop/) 
 
 O Analyze in Excel é uma ferramenta externa para o Power BI Desktop que conecta o Excel ao modelo de dados local do Power BI Desktop. O objetivo é permitir a criação de relatórios no Excel com apenas um clique. A primeira versão é básica, mas futuras atualizações podem adicionar funcionalidades sem comprometer a experiência simplificada.
 
@@ -55,3 +55,25 @@ Ao reabrir o Power BI Desktop e usar a ferramenta, o arquivo do Excel é atualiz
 Um suplemento do Excel, desenvolvido em VSTO, que abre o Power BI Desktop e conecta uma Tabela Dinâmica ao modelo de dados.
 O usuário pode iniciar a conexão diretamente no Excel, abrindo um arquivo específico do Power BI Desktop se ainda não estiver aberto.
 Se o arquivo do Excel foi salvo usando a ferramenta “Abrir Relatório no Excel”, o suplemento pode recuperar automaticamente o arquivo correto do Power BI Desktop para abrir.
+
+---
+
+# Bravo for Power BI
+
+Bravo para Power BI é uma ferramenta gratuita de código aberto que ajuda você a criar um modelo do Power BI com uma interface de usuário simples. 
+
+  - Analisar modelo: Encontre as colunas e tabelas mais caras
+  - Formatar DAX: Formate suas medidas DAX
+  - Gerenciar datas: Crie uma tabela de datas que você pode conectar a várias tabelas e aplique funções de inteligência de tempo às suas medidas.
+  - Exportar dados: Exporte dados do Power BI para arquivos Excel e CSV.
+
+Gratuito e de código aberto.
+
+O Bravo não substitui ferramentas mais avançadas como DAX Studio e Tabular Editor.
+O Bravo é para usuários que não precisam desse nível de complexidade.
+Se você precisar de mais detalhes e opções, use outras ferramentas mais avançadas.
+Mas quando a tarefa for simples, ou se você ainda estiver dando os primeiros passos com o Power BI, o Bravo está lá para ajudar.
+
+clique aqui e baixe uma versão mais recente:  [Bravo](https://www.sqlbi.com/tools/bravo-for-power-bi/) 
+
+---

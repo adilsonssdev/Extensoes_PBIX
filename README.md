@@ -77,3 +77,17 @@ Mas quando a tarefa for simples, ou se você ainda estiver dando os primeiros pa
 clique aqui e baixe uma versão mais recente:  [Bravo](https://www.sqlbi.com/tools/bravo-for-power-bi/) 
 
 ---
+# Tabular Editor
+
+clique aqui e baixe:  [Tabular Editor](https://www.sqlbi.com/tools/tabular-editor/)
+
+O **Tabular Editor** é uma alternativa ao SSDT para criar modelos tabulares no Analysis Services, mesmo sem um servidor de workspace.
+
+O **Tabular Editor 2** é um projeto de código aberto que permite editar um arquivo BIM sem acessar os dados do modelo. 
+Esse modo offline facilita ajustes rápidos no arquivo BIM, especialmente na manipulação de medidas, colunas calculadas, pastas de exibição, perspectivas e traduções.
+
+O **Tabular Editor 3** é a versão comercial da ferramenta, oferecendo mais recursos de produtividade, um editor DAX avançado, uma interface aprimorada e suporte dedicado. 
+O Tabular Editor não é produzido pela SQLBI, mas é altamente recomendado por ser o melhor ambiente de desenvolvimento para modelos semânticos e expressões DAX no Power BI e no Analysis Services.
+
+O Tabular Editor é compatível com o nível 1200 ou superior (formato JSON), incluindo o nível 1500, necessário para grupos de cálculo.
+Você pode baixar o executável e o código-fonte no projeto **Tabular Editor** no [GitHub](https://github.com/TabularEditor/TabularEditor/releases/tag/2.25).

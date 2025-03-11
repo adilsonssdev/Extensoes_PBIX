@@ -62,10 +62,10 @@ Se o arquivo do Excel foi salvo usando a ferramenta “Abrir Relatório no Excel
 
 Bravo para Power BI é uma ferramenta gratuita de código aberto que ajuda você a criar um modelo do Power BI com uma interface de usuário simples. 
 
-  - Analisar modelo: Encontre as colunas e tabelas mais caras
-  - Formatar DAX: Formate suas medidas DAX
-  - Gerenciar datas: Crie uma tabela de datas que você pode conectar a várias tabelas e aplique funções de inteligência de tempo às suas medidas.
-  - Exportar dados: Exporte dados do Power BI para arquivos Excel e CSV.
+  - **Analisar modelo:** Encontre as colunas e tabelas mais caras
+  - **Formatar DAX:** Formate suas medidas DAX
+  - **Gerenciar datas:** Crie uma tabela de datas que você pode conectar a várias tabelas e aplique funções de inteligência de tempo às suas medidas.
+  - **Exportar dados:** Exporte dados do Power BI para arquivos Excel e CSV.
 
 Gratuito e de código aberto.
 
@@ -74,12 +74,12 @@ O Bravo é para usuários que não precisam desse nível de complexidade.
 Se você precisar de mais detalhes e opções, use outras ferramentas mais avançadas.
 Mas quando a tarefa for simples, ou se você ainda estiver dando os primeiros passos com o Power BI, o Bravo está lá para ajudar.
 
-clique aqui e baixe uma versão mais recente:  [Bravo](https://www.sqlbi.com/tools/bravo-for-power-bi/) 
+Clique aqui e baixe uma versão mais recente:  [Bravo](https://www.sqlbi.com/tools/bravo-for-power-bi/) 
 
 ---
 # Tabular Editor
 
-clique aqui e baixe:  [Tabular Editor](https://www.sqlbi.com/tools/tabular-editor/)
+Clique aqui e baixe:  [Tabular Editor](https://www.sqlbi.com/tools/tabular-editor/)
 
 O **Tabular Editor** é uma alternativa ao SSDT para criar modelos tabulares no Analysis Services, mesmo sem um servidor de workspace.
 
@@ -91,3 +91,5 @@ O Tabular Editor não é produzido pela SQLBI, mas é altamente recomendado por 
 
 O Tabular Editor é compatível com o nível 1200 ou superior (formato JSON), incluindo o nível 1500, necessário para grupos de cálculo.
 Você pode baixar o executável e o código-fonte no projeto **Tabular Editor** no [GitHub](https://github.com/TabularEditor/TabularEditor/releases/tag/2.25).
+
+
